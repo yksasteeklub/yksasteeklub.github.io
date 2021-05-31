@@ -5,44 +5,12 @@ html
 { margin: 0;
   padding: 0;}
 
+body
+{ font: normal .80em 'trebuchet ms', arial, sans-serif;
+  background-color: #fcdb03;
+  background-image: url("roplays.png");
+}
 
-        body { background-color: #fcdb03; }
-        #snow{
-            background: none;
-            font-family: Androgyne;
-            background-image: url('/roplays.png'), url('/roplays.png'), url('/roplays.png');
-            height: 100%;
-            left: 0;
-            position: absolute;
-            top: 0;
-            width: 100%;
-            z-index:1;
-            -webkit-animation: snow 1000s linear infinite;
-            -moz-animation: snow 1000s linear infinite;
-            -ms-animation: snow 1000s linear infinite;
-            animation: snow 1000s linear infinite;
-            -webkit-transform: translate3d(0,0,0);
-            -moz-transform: translate3d(0,0,0);
-            -ms-transform: translate3d(0,0,0);
-            -o-transform: translate3d(0,0,0);
-            transform: translate3d(0,0,0);
-        }
-        @keyframes snow {
-          0% {background-position: 0px 0px, 0px 0px, 0px 0px;}
-          100% {background-position: 50000px 50000px, 10000px 20000px, -10000px 15000px;}          
-        }
-        @-moz-keyframes snow {
-          0% {background-position: 0px 0px, 0px 0px, 0px 0px;}
-          100% {background-position: 50000px 50000px, 10000px 20000px, -10000px 15000px;}          
-        }
-        @-webkit-keyframes snow {
-          0% {background-position: 0px 0px, 0px 0px, 0px 0px;}
-          100% {background-position: 50000px 50000px, 10000px 20000px, -10000px 15000px;}          
-        }
-        @-ms-keyframes snow {
-          0% {background-position: 0px 0px, 0px 0px, 0px 0px;}
-          100% {background-position: 50000px 50000px, 10000px 20000px, -10000px 15000px;}          
-        }   
 p
 { padding: 0 0 20px 0;
   line-height: 1.7em;}
@@ -323,3 +291,4 @@ table tr td
 { background: #F0EFE2;
   color: #47433F;
   border-top: 1px solid #FFF;}
+
