@@ -9,7 +9,23 @@ body
 { font: normal .80em 'trebuchet ms', arial, sans-serif;
   background-color: #fcdb03;
   background-image: url("roplays.png");
+  padding: 50px; 
 }
+
+div {
+  width: 100px;
+  height: 100px;
+  background-color: #0CB1C4;
+  animation-name: spin;
+  animation-duration: 5000ms;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear; 
+  /* transform: rotate(3deg); */
+   /* transform: rotate(0.3rad);/ */
+   /* transform: rotate(3grad); */ 
+   /* transform: rotate(.03turn);  */
+}
+
 
 p
 { padding: 0 0 20px 0;
@@ -291,3 +307,12 @@ table tr td
 { background: #F0EFE2;
   color: #47433F;
   border-top: 1px solid #FFF;}
+
+@keyframes spin {
+    from {
+        transform:rotate(0deg);
+    }
+    to {
+        transform:rotate(360deg);
+    }
+}
