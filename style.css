@@ -17,8 +17,8 @@ div {
   height: 100px;
   background-color: #0CB1C4;
   animation-name: spin;
-  animation-duration: 5000ms;
-  animation-iteration-count: infinite;
+  animation-duration: 250ms;
+  animation-iteration-count: 1;
   animation-timing-function: linear; 
   /* transform: rotate(3deg); */
    /* transform: rotate(0.3rad);/ */
