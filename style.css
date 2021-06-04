@@ -73,11 +73,6 @@ img
   animation-iteration-count: infinite;
   animation-timing-function: linear;
 }
-.discord{
-  position: absolute;
-  right: 727px;
-  bottom: 580px;
-}
 
 @keyframes spin {
     from {
