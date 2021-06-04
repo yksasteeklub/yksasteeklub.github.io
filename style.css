@@ -64,8 +64,8 @@ img
 }
 .hakaristi {
   position: absolute;
-  right: 561px;
-  bottom: 235px
+  right: 565px;
+  bottom: 305px;
 }
 .hakaristi {
   animation-name: spin;
@@ -76,7 +76,7 @@ img
 .discord{
   position: absolute;
   right: 727px;
-  bottom: 425px
+  bottom: 580px;
 }
 
 @keyframes spin {
