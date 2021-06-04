@@ -11,7 +11,7 @@ body
 }
 #snow{
           background: none;
-          background-image: url('roplays.png'), url('roplays.png');
+          background-image: url('kuvat/roplays.png'), url('kuvat/roplays.png');
           height: 100%;
           left: 0;
           position: absolute;
@@ -64,8 +64,8 @@ img
 }
 .hakaristi {
   position: absolute;
-  right: 562px;
-  bottom: 256px
+  right: 565px;
+  bottom: 130px
 }
 .hakaristi {
   animation-name: spin;
@@ -221,7 +221,7 @@ ul#menu li a
 
 ul#menu li a:hover, ul#menu li.selected a, ul#menu li.selected a:hover
 { color: #FFF;
-  background: transparent url(roplays.png) repeat;}
+  background: transparent url(kuvat/roplays.png) repeat;}
 
 #site_content
 { width: 854px;
@@ -374,7 +374,7 @@ html
 body
 { font: normal .80em 'trebuchet ms', arial, sans-serif;
   background-color: #fcdb03;
-  background-image: url("roplays.png");
+  background-image: url("kuvat/roplays.png");
 }
 
 p
@@ -514,7 +514,7 @@ ul#menu li a
 
 ul#menu li a:hover, ul#menu li.selected a, ul#menu li.selected a:hover
 { color: #FFF;
-  background: transparent url(roplays.png) repeat;}
+  background: transparent url(kuvat/roplays.png) repeat;}
 
 #site_content
 { width: 854px;
