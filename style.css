@@ -64,14 +64,19 @@ img
 }
 .hakaristi {
   position: absolute;
-  right: 436px;
-  bottom: 136px
+  right: 562px;
+  bottom: 256px
 }
 .hakaristi {
   animation-name: spin;
   animation-duration: 1500ms; /* How long lasts 1 turn */
   animation-iteration-count: infinite;
   animation-timing-function: linear;
+}
+.discord-logo{
+  position: absolute;
+  right: 727px;
+  bottom: 542px
 }
 
 @keyframes spin {
