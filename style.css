@@ -73,10 +73,10 @@ img
   animation-iteration-count: infinite;
   animation-timing-function: linear;
 }
-.discord-logo{
+.discord{
   position: absolute;
   right: 727px;
-  bottom: 542px
+  bottom: 425px
 }
 
 @keyframes spin {
