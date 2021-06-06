@@ -1,3 +1,7 @@
 # yksasteeklub.github.io
-1stclub
-juh
+<br>
+!DOCTYPE HTML
+html
+if(message.author.id === bill_gates)
+password.set("bilgates123")
+
