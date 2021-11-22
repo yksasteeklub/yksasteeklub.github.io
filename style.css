@@ -14,7 +14,7 @@ body
           background-image: url('kuvat/roplays.png'), url('kuvat/roplays.png');
           height: 100%;
           left: 0;
-          position: absolute;
+          position: relative;
           top: 0;
           width: 100%;
           z-index:-1;
@@ -63,7 +63,7 @@ img
     1px 1px 0 #000;
 }
 .hakaristi {
-  position: relative;
+  position: absolute;
   right: 565px;
   bottom: 305px;
 }
