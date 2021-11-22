@@ -65,8 +65,7 @@ img
 .hakaristi {
   position: fixed;
   right: 565px;
-  bottom: 305px;
-  display: block;
+  top: 455px;
 }
 .hakaristi {
   animation-name: spin;
