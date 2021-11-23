@@ -14,7 +14,7 @@ body
           background-image: url('kuvat/roplays.png'), url('kuvat/roplays.png');
           height: 100%;
           left: 0;
-          position: relative;
+          position: absolute;
           top: 0;
           width: 100%;
           z-index:-1;
