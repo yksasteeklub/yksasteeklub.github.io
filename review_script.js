@@ -9,6 +9,7 @@ let data = [
         avatar: "https://www.packsmart.com//img/product/Frontal_View-B.jpg",
         review: "Itsehän olen moderaattori kyseisellä serverillä, joten oma mp on 5/5"
         
-    }
-        ];
+    },
+]
+
 console.log(data.name)
