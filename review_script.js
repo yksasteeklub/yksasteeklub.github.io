@@ -12,4 +12,6 @@ let data = [
     },
 ]
 
-console.log(data)
+data.forEach(element => {
+    console.log(element.name)
+});
