@@ -361,6 +361,7 @@ table tr td
 .reviews {
   text-align: center;
   align-items: center;
+  font-size: 1rem;
 }
 
 .reviews img {
