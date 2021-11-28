@@ -74,6 +74,12 @@ let data = [
         avatar: 'https://lh3.googleusercontent.com/HobxEgUh9zVin2VjIYK8C_ltgX68XZFHOMmfU00gyZWf8qFYNv8GVvHxuECQGGJ-FeG4=s85',
         review: '"Itsehän olen moderaattori kyseisellä serverillä, joten oma mp on 5/5"'
     },
+    {
+        
+        name: 'ETKSA_',
+        avatar: 'https://lh3.googleusercontent.com/57bqYcHBeLzBoM5JYqKSz05B6w4XBIfxOVv0JnqH7xZwRo5epxs8d01gJweQ59s_8TLS=s85',
+        review: '"Vitun kyrvät vetäkää käteen teiän pingien kanssa!!"'
+    },
 ]
 
 let random_r;
