@@ -77,7 +77,7 @@ let data = [
     },
     {
 
-        name: 'ETKSA_',
+        name: 'ETSKA_',
         avatar: 'https://lh3.googleusercontent.com/57bqYcHBeLzBoM5JYqKSz05B6w4XBIfxOVv0JnqH7xZwRo5epxs8d01gJweQ59s_8TLS=s85',
         review: '"Vitun kyrvät vetäkää käteen teiän pingien kanssa!!"'
     },
@@ -87,10 +87,10 @@ let data = [
         avatar: 'https://cdn.discordapp.com/attachments/844238966152888381/914568396291575909/11393072_10207029210395650_8988498390013272154_n.jpg',
         review: '"millo se mun dragon lore saatana ku annoin suihin perkele"'
     },
-    { 
-         name: 'Aatu',
-         avatar: 'https://cdn.discordapp.com/attachments/812654337775763507/914586566087835698/adolf-hitler.jpg',
-         review: '"Joo elikkäs nyt tulisi vähän rankempaa tekstiä. Voisitteko vittu rauhoittua? Ymmärrän toisaalta sokerihumalan mutta oikeasti, herra varjele mitä pentuja koko palvelin täynnä."' 
+    {
+        name: 'Aatu',
+        avatar: 'https://cdn.discordapp.com/attachments/812654337775763507/914586566087835698/adolf-hitler.jpg',
+        review: '"Joo elikkäs nyt tulisi vähän rankempaa tekstiä. Voisitteko vittu rauhoittua? Ymmärrän toisaalta sokerihumalan mutta oikeasti, herra varjele mitä pentuja koko palvelin täynnä."'
     },
 ]
 
