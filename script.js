@@ -71,7 +71,7 @@ let data = [
     },
     {
         name: 'SharpSX',
-        avatar: 'https://lh3.googleusercontent.com/HobxEgUh9zVin2VjIYK8C_ltgX68XZFHOMmfU00gyZWf8qFYNv8GVvHxuECQGGJ-FeG4=s85',
+        avatar: 'kuvat/icofix.png',
         review: '"Itsehän olen moderaattori kyseisellä serverillä, joten oma mp on 5/5"'
     },
     {
