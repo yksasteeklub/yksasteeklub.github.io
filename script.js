@@ -59,3 +59,40 @@ function keyPush(evt) {
             break;
     }
 }
+let review_content = document.querySelector(".reviews")
+let key_back = document.querySelector(".key-back")
+let key_next = document.querySelector(".key-next")
+
+let data = [
+    {
+        name: 'Negat',
+        avatar: 'https://i1.sndcdn.com/artworks-xld5lLClKqURslHF-XgFUzw-t500x500.jpg',
+        review: '"Vitun paska serveri, kokoajan holokausteja, olen mutella aina. 0/5!"'
+    },
+    {
+        name: 'SharpSX',
+        avatar: 'https://lh3.googleusercontent.com/HobxEgUh9zVin2VjIYK8C_ltgX68XZFHOMmfU00gyZWf8qFYNv8GVvHxuECQGGJ-FeG4=s85',
+        review: '"Itsehän olen moderaattori kyseisellä serverillä, joten oma mp on 5/5"'
+    },
+]
+
+let random_r;
+let random = Math.floor(Math.random() * data.length);
+
+window.addEventListener("DOMContentLoaded", function () {
+    showPerson(random)
+})
+
+key_back.onclick = () => {
+    random_r = Math.floor(Math.random() * data.length);
+    showPerson(random_r);
+}
+key_next.onclick = () => {
+    random_r = Math.floor(Math.random() * data.length);
+    showPerson(random_r);
+}
+
+function showPerson(person) {
+    let item = data[person]
+    review_content.innerHTML = "<img src=" + item.avatar + ">" + "<br></br>" + item.name + "<br></br>" + item.review;
+}
