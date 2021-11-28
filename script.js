@@ -59,6 +59,7 @@ function keyPush(evt) {
             break;
     }
 }
+
 let review_content = document.querySelector(".reviews")
 let key_back = document.querySelector(".key-back")
 let key_next = document.querySelector(".key-next")
@@ -71,13 +72,20 @@ let data = [
     },
     {
         name: 'SharpSX',
-        avatar: 'kuvat/icofix.png',
+        avatar: 'https://lh3.googleusercontent.com/HobxEgUh9zVin2VjIYK8C_ltgX68XZFHOMmfU00gyZWf8qFYNv8GVvHxuECQGGJ-FeG4=s85',
         review: '"Itsehän olen moderaattori kyseisellä serverillä, joten oma mp on 5/5"'
     },
     {
+
         name: 'ETKSA_',
         avatar: 'https://lh3.googleusercontent.com/57bqYcHBeLzBoM5JYqKSz05B6w4XBIfxOVv0JnqH7xZwRo5epxs8d01gJweQ59s_8TLS=s85',
         review: '"Vitun kyrvät vetäkää käteen teiän pingien kanssa!!"'
+    },
+    {
+
+        name: 'Koze',
+        avatar: 'https://cdn.discordapp.com/attachments/844238966152888381/914568396291575909/11393072_10207029210395650_8988498390013272154_n.jpg',
+        review: '"millo se mun dragon lore saatana ku annoin suihin perkele"'
     },
 ]
 
