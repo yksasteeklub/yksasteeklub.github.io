@@ -63,7 +63,7 @@ img
     1px 1px 0 #000;
 }
 .hakaristi {
-  position: fixed;
+  position: absolute;
   right: 565px;
   top: 455px;
 }
