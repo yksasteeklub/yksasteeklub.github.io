@@ -92,6 +92,11 @@ let data = [
         avatar: 'https://cdn.discordapp.com/attachments/812654337775763507/914586566087835698/adolf-hitler.jpg',
         review: '"Joo elikkäs nyt tulisi vähän rankempaa tekstiä. Voisitteko vittu rauhoittua? Ymmärrän toisaalta sokerihumalan mutta oikeasti, herra varjele mitä pentuja koko palvelin täynnä."'
     },
+    {
+        name: 'Roplays',
+        avatar: 'kuvat/roplays.png',
+        review: '"Pls boobs"'
+    },
 ]
 
 let random_r;
