@@ -99,7 +99,7 @@ let data = [
     },
     {
         name: 'Gyyppi',
-        avatar: 'https://static.wikia.nocookie.net/among-us-wiki/images/c/c7/Red_old_design.png/revision/latest/scale-to-width-down/250?cb=20210307225556',
+        avatar: 'https://i.pinimg.com/originals/bc/07/40/bc0740ebf3ff7464c6086a9096f0e010.jpg',
         review: '"卐"'
     },
 ]
