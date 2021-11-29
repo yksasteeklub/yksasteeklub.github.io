@@ -73,7 +73,7 @@ let data = [
     {
         name: 'SharpSX',
         avatar: 'https://lh3.googleusercontent.com/HobxEgUh9zVin2VjIYK8C_ltgX68XZFHOMmfU00gyZWf8qFYNv8GVvHxuECQGGJ-FeG4=s85',
-        review: '"Itsehän olen moderaattori kyseisellä serverillä, joten oma mp on 5/5"'
+        review: '"Itsehän olen moderaattori kyseisellä serverillä, joten oma mp on 5/5, mut ei oo ihan niin 5/5 mut ei oo ihan täys 5/5 mut on 5/5"'
     },
     {
 
@@ -99,7 +99,7 @@ let data = [
     },
     {
         name: 'Gyyppi',
-        avatar: 'https://i.pinimg.com/originals/bc/07/40/bc0740ebf3ff7464c6086a9096f0e010.jpg',
+        avatar: 'https://static.wikia.nocookie.net/among-us-wiki/images/c/c7/Red_old_design.png/revision/latest/scale-to-width-down/250?cb=20210307225556',
         review: '"卐"'
     },
 ]
