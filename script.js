@@ -97,6 +97,11 @@ let data = [
         avatar: 'kuvat/roplays.png',
         review: '"Pls boobs"'
     },
+    {
+        name: 'Gyyppi',
+        avatar: 'https://static.wikia.nocookie.net/among-us-wiki/images/c/c7/Red_old_design.png/revision/latest/scale-to-width-down/250?cb=20210307225556',
+        review: '"卐"'
+    },
 ]
 
 let random_r;
