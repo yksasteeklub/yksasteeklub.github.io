@@ -72,7 +72,7 @@ let data = [
     },
     {
         name: 'SharpSX',
-        avatar: 'https://lh3.googleusercontent.com/HobxEgUh9zVin2VjIYK8C_ltgX68XZFHOMmfU00gyZWf8qFYNv8GVvHxuECQGGJ-FeG4=s85',
+        avatar: 'https://sharpsx.gq/assets/icofix.png',
         review: '"Itsehän olen moderaattori kyseisellä serverillä, joten oma mp on 5/5, mut ei oo ihan niin 5/5 mut ei oo ihan täys 5/5 mut on 5/5"'
     },
     {
@@ -99,9 +99,16 @@ let data = [
     },
     {
         name: 'Gyyppi',
-        avatar: 'kuvay/amogus.png',
+        avatar: 'kuvat/amogus.png',
         review: '"卐"'
     },
+    {
+        name: 'Riihi Pizzeria',
+        avatar: 'https://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/be/bef9f2e32c531942c3cc38b50af1c704f45b6978_full.jpg',
+        review: '"Vittu teidan kansa, aina hairitse meita soita pilapuhelu joka paiva. Sina levitaa propaganda meidan koogle sivuilamme. Poliisit on soitettu ja tama ei jaa tahan. "'
+    },    
+    
+    
 ]
 
 let random_r;
