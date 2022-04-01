@@ -131,3 +131,5 @@ function showPerson(person) {
     let item = data[person]
     review_content.innerHTML = "<img src=" + item.avatar + ">" + "<br></br>" + item.name + "<br></br>" + item.review;
 }
+
+let date =  new Date().getFullYear();
