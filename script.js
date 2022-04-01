@@ -113,7 +113,7 @@ let data = [
 
 let random_r;
 let random = Math.floor(Math.random() * data.length);
-let date =  new Date().getFullYear();
+let date = new Date().getFullYear();
 
 window.addEventListener("DOMContentLoaded", function () {
     showPerson(random)
