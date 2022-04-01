@@ -116,8 +116,8 @@ let random = Math.floor(Math.random() * data.length);
 let date = new Date().getFullYear();
 
 window.addEventListener("DOMContentLoaded", function () {
-    showPerson(random)
     document.querySelector('.yearNow').innerHTML = "Copyright © 1ST CLUB 2021 - " + date + "All rights reserved <br><br>design by SharpSX 2021";
+    showPerson(random)
 })
 
 key_back.onclick = () => {
