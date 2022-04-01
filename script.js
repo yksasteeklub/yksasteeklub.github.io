@@ -114,7 +114,7 @@ let data = [
 let random_r;
 let random = Math.floor(Math.random() * data.length);
 let date = new Date().getFullYear();
-
+if(key_back && key_next) {
 window.addEventListener("DOMContentLoaded", function () {
     document.querySelector('.yearNow').innerHTML = "Copyright © 1ST CLUB 2021 - " + date + "All rights reserved <br><br>design by SharpSX 2021";
     showPerson(random)
@@ -132,4 +132,9 @@ key_next.onclick = () => {
 function showPerson(person) {
     let item = data[person]
     review_content.innerHTML = "<img src=" + item.avatar + ">" + "<br></br>" + item.name + "<br></br>" + item.review;
+}
+} else {
+    window.addEventListener("DOMContentLoaded", function () {
+    document.querySelector('.yearNow').innerHTML = "Copyright © 1ST CLUB 2021 - " + date + "All rights reserved <br><br>design by SharpSX 2021";
+    }
 }
