@@ -10,7 +10,7 @@ let data = [
     },
     {
         name: 'SharpSX',
-        avatar: 'https://sharpsx.gq/assets/icofix.png',
+        avatar: '../kuvat/icofix.png',
         review: '"Itsehän olen moderaattori kyseisellä serverillä, joten oma mp on 5/5, mut ei oo ihan niin 5/5 mut ei oo ihan täys 5/5 mut on 5/5"'
     },
     {
