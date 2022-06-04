@@ -52,9 +52,9 @@ let data = [
     },
     {
         name: 'Lyseon Koulu',
-        avatar: 'kuvat/lyseo.png',
+        avatar: '../kuvat/lyseo.png',
         review: '"Kuka perkele DDoSSaa ja skannnaa MLIedu_mobile nettiä kokoajan. Saatana ei toimi netti ei sitten yhtään, kun pitäis laittaa parit wilma viestit vielä, mutta ku joku j0nne luulee olevansa niin hauska, niin ei sekään onnistu."'
-    }
+    },
     
 ]
 
