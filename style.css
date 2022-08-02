@@ -378,9 +378,11 @@ table tr td
   display: inline-block;
   padding: 0 2px;
   margin-top: .2rem;
+  font-size: 12px;
 }
 .key-next {
   display: inline-block;
   padding: 0 2px;
   margin-top: .2rem;
+  font-size: 12px;
 }
