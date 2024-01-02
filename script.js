@@ -63,6 +63,13 @@ let data = [
     review:
       '"Kuka perkele DDoSSaa ja skannnaa MLIedu_mobile nettiä kokoajan. Saatana ei toimi netti ei sitten yhtään, kun pitäis laittaa parit wilma viestit vielä, mutta ku joku j0nne luulee olevansa niin hauska, niin ei sekään onnistu."',
   },
+  {
+    name: "Tero Höylä",
+    avatar:
+      "../kuvat/paappanen.png",
+    review:
+      '"Hoka helevetin päivä pittää palvelinta huoltaa ja tehdä vianmäärityksiä."',
+  },
 ];
 
 let random_r;
