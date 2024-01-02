@@ -66,7 +66,7 @@ let data = [
   {
     name: "Tero Höylä",
     avatar:
-      "../kuvat/paappanen.png",
+      "../kuvat/paappanen.jpg",
     review:
       '"Hoka helevetin päivä pittää palvelinta huoltaa ja tehdä vianmäärityksiä."',
   },
