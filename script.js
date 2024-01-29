@@ -18,7 +18,7 @@ let data = [
   },
   {
     name: "ETSKA_",
-    avatar: "https://etska.fi/assets/img/etska.png",
+    avatar: "https://avatars.githubusercontent.com/u/51335321?v=4",
     review: '"Vitun kyrvät vetäkää käteen teiän pingien kanssa!!"',
   },
   {
