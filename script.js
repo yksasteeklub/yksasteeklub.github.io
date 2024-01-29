@@ -110,7 +110,7 @@ if (key_back && key_next) {
     document.querySelector(".yearNow").innerHTML =
       "Copyright © 1ST CLUB 2020 - " +
       date +
-      " All rights reserved <br><br>Design by Markku 2021";
+      ' All rights reserved <br><br>Design by <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">roplays<a/> 2021';
   });
 }
 
